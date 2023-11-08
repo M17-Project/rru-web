@@ -2,7 +2,7 @@
 
 ![logo](_media/m17-rru-rf.png ':size=700')
 
-# Module17 <small>0.1e</small>
+# M17 RRU
 
 > Remote Radio Unit RF board.
 
