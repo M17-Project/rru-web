@@ -9,7 +9,7 @@ FM-based modes, including M17 and AFSK.
 
 ## Quick fact sheet
 
-RF power module - [RA60H3847M1]([https://www.mitsubishielectric.com/semiconductors/hf/products/lineup/index.html](https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/ra60h3847m1.pdf))<br>
+RF power module - [RA60H3847M1](https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/ra60h3847m1.pdf)<br>
 RF output power - 60W<br>
 Frequency range - 420..450MHz<br>
 Frequency error - <0.5 ppm over -40 to +85°C range<br>
